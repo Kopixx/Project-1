@@ -15,7 +15,7 @@ For buyers, this project provides valuable insight into what key independent pro
 For sellers, this project can provide refined pricing estimates informed by the dependent variables outlined above. Furthermore, it evaluates the performance of Melbourne’s top real estate agencies across overall sale amount, location preferences, and sale price in relation to the estimated property value.
 
 
-The project looks at the influences of the below variable on pricing
+The project looks at the influences of the following variables on Sale Price:
 - Property Type (i.e., House, Townhouse, or Unit/Apartment)
 - Land Size (m2)
 - Building Size (m2)
@@ -24,7 +24,7 @@ The project looks at the influences of the below variable on pricing
 - The Number of Parking Spot attached to a property
 - The Year that the Property was built
 - The Date of Property Sale
-- Real Estate Agency of sale
+- Real Estate Agency/Agent used for sale
 - Location (Longitude, Latitude, Suburb, Distance from CBD)
 
 The project addresses these influence via hypothesis testing, correlational relationships, linear regression models, geographical analysis, density and frequency observation and analysis for real estate agencies, and a real estate agencies performance sales performance and listing volume.
