@@ -25,18 +25,18 @@ The project looks at the influences of the below variable on pricing
 The project addresses these influence via hypothesis testing, correlational relationships, geographical analysis, density and frequency observation and analysis for real estate agencies, and a real estate agencies performance sales performance and listing volume.
 
 ### Initial Data Cleaning
-File: initial_data_cleaning.ipynb
-Raw Data: Property Sales of Melbourne City.csv
-Cleaned Data: Properties_of_Melbourne_City_CLEANED.csv
+- File: initial_data_cleaning.ipynb
+- Raw Data: Property Sales of Melbourne City.csv
+- Cleaned Data: Properties_of_Melbourne_City_CLEANED.csv
 
 ### Question 1 - What are the main influences on Property Prices in Melbourne?
-File: Q1_data_exploration.ipynb
+- File: Q1_data_exploration.ipynb
 
 ### Question 2 - Looking to buy in Melbourne? What location is best for your living demographic & your budget?
-File: Q2_data_exploration.ipynb
+- File: Q2_data_exploration.ipynb
 
 ### Question 3 - Looking to sell in Melbourne? Which real estate agency will get you the best value for your property?
-File: Q3_data_exploration.ipynb
+- File: Q3_data_exploration.ipynb
 
 ### Presentation Slides
-File: Project 1 Presentation Slides
+- File: Project 1 Presentation Slides
