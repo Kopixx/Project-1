@@ -1,4 +1,4 @@
-# Project 1 - Group 1 - Melbourne Property Price Insights - Understanding the Influences upon Melbourne Propert Prices
+# Project 1 - Group 1 - Melbourne Property Price Insights - Understanding the influences upon Melbourne property prices
 
 "Project 1 of the Data Visualisation &amp; Analytics Bootcamp"
 
@@ -9,8 +9,16 @@ Download & Accessed Date: 4 April 2023.
 
 # Question : "What are the main influences on Property Prices in Melbourne?"
 
-The project was directed to providing both seller and buyers, with an understanding of the key influences on property pricing, an indication of estimate pricing by location, a performance analysis of local real estate agents.  
+The project was directed to providing both seller and buyers, with an understanding of the key influences on property pricing, an indication of estimate pricing by location, a performance analysis of local real estate agents, and insights in the property market and pricing addressing four demographic clusters.
 
+The project looks at the influences of the below variable  on pricing
+- Property Type (i.e., House, Townhouse and Unit/Appartment formats)
+- Land Size
+- Building Size
+- The Number of Rooms in a Property
+- The Number of Bedrooms in a Property
+- The Number of Parking Spot attached to a property
+- The Year that the Property was built
+- The Date on which a Property was sold or listed. 
 
-
-
+The project address these influence via hypothesis testing, corelational relationships,
