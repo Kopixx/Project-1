@@ -1,4 +1,4 @@
-# Project 1 - Group 1 - Melbourne Property Price Insights - Understanding the influences upon Melbourne property prices
+# Project 1 - Group 1 - Melbourne Property Price Insights - Understanding the influences upon Melbourne Property Prices
 
 "Project 1 of the Data Visualisation &amp; Analytics Bootcamp"
 
@@ -7,8 +7,7 @@ URL: https://www.kaggle.com/datasets/amalab182/property-salesmelbourne-city
 
 Download & Accessed Date: 4 April 2023.
 
-# Question: "What are the main influences on Property Prices in Melbourne?"
-
+## Summary
 The project was directed to providing both seller and buyers, with an understanding of the key influences on property pricing, an indication of estimate pricing by location, a performance analysis of local real estate agents, and insights in the property market and pricing addressing four demographic clusters.
 
 The project looks at the influences of the below variable on pricing
@@ -24,3 +23,20 @@ The project looks at the influences of the below variable on pricing
 - Location
 
 The project addresses these influence via hypothesis testing, correlational relationships, geographical analysis, density and frequency observation and analysis for real estate agencies, and a real estate agencies performance sales performance and listing volume.
+
+### Initial Data Cleaning
+File: initial_data_cleaning.ipynb
+Raw Data: Property Sales of Melbourne City.csv
+Cleaned Data: Properties_of_Melbourne_City_CLEANED.csv
+
+### Question 1 - What are the main influences on Property Prices in Melbourne?
+File: Q1_data_exploration.ipynb
+
+### Question 2 - Looking to buy in Melbourne? What location is best for your living demographic & your budget?
+File: Q2_data_exploration.ipynb
+
+### Question 3 - Looking to sell in Melbourne? Which real estate agency will get you the best value for your property?
+File: Q3_data_exploration.ipynb
+
+### Presentation Slides
+File: Project 1 Presentation Slides
