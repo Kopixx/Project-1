@@ -8,21 +8,26 @@ URL: https://www.kaggle.com/datasets/amalab182/property-salesmelbourne-city
 Download & Accessed Date: 4 April 2023.
 
 ## Summary
-The project was directed to providing both seller and buyers, with an understanding of the key influences on property pricing, an indication of estimate pricing by location, a performance analysis of local real estate agents, and insights in the property market and pricing addressing four demographic clusters.
+This project is a comprehensive resource aimed at helping buyers and sellers understand the various influential factors behind property prices in Melbourne. 
+
+For buyers, this project provides valuable insight into what key independent property attributes contribute to determining property prices. Furthermore, the project defines common living demographics and identifies how the price and availability of their relevant properties are spread across the region in relation to the CBD.
+
+For sellers, this project can provide refined pricing estimates informed by the dependent variables outlined above. Furthermore, it evaluates the performance of Melbourne’s top real estate agencies across overall sale amount, location preferences, and sale price in relation to the estimated property value.
+
 
 The project looks at the influences of the below variable on pricing
-- Property Type (i.e., House, Townhouse and Unit/Apartment formats)
-- Land Size
-- Building Size
+- Property Type (i.e., House, Townhouse, or Unit/Apartment)
+- Land Size (m2)
+- Building Size (m2)
 - The Number of Rooms in a Property
 - The Number of Bedrooms in a Property
 - The Number of Parking Spot attached to a property
 - The Year that the Property was built
-- The Date on which a Property was sold or listed. 
-- Real Estate Agency
-- Location
+- The Date of Property Sale
+- Real Estate Agency of sale
+- Location (Longitude, Latitude, Suburb, Distance from CBD)
 
-The project addresses these influence via hypothesis testing, correlational relationships, geographical analysis, density and frequency observation and analysis for real estate agencies, and a real estate agencies performance sales performance and listing volume.
+The project addresses these influence via hypothesis testing, correlational relationships, linear regression models, geographical analysis, density and frequency observation and analysis for real estate agencies, and a real estate agencies performance sales performance and listing volume.
 
 ### Initial Data Cleaning
 - File: initial_data_cleaning.ipynb
