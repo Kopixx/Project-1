@@ -39,4 +39,4 @@ The project addresses these influence via hypothesis testing, correlational rela
 - File: Q3_data_exploration.ipynb
 
 ### Presentation Slides
-- File: Project 1 Presentation Slides
+- File: Project 1 Presentation Slides.pdf
